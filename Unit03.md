@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST103: World History in the Early Modern and Modern Eras (1600-Present)"
+course_description: "An introductory survey of the political, economic, social, and technological transformations in world history from the 17th century to the present, with special emphasis on global interactions."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Religious, Intellectual, and Political Revolutions in the
 1600s-1800s** <span id="3"></span> 
 *The 1600s and 1700s were a time of profound religious, intellectual,

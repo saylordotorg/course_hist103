@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST103: World History in the Early Modern and Modern Eras (1600-Present)"
+course_description: "An introductory survey of the political, economic, social, and technological transformations in world history from the 17th century to the present, with special emphasis on global interactions."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Scientific and Industrial Revolutions of the 1600s and 1700s**
 <span id="4"></span> 
 *The Scientific Revolution began in Europe in the 16<sup>th</sup>

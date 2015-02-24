@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST103: World History in the Early Modern and Modern Eras (1600-Present)"
+course_description: "An introductory survey of the political, economic, social, and technological transformations in world history from the 17th century to the present, with special emphasis on global interactions."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: The Cold War and Decolonization** <span id="9"></span> 
 *Following World War II, many nations throughout the world began to ally
 themselves with either the democratic United States or the Communist

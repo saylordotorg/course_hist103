@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST103: World History in the Early Modern and Modern Eras (1600-Present)"
+course_description: "An introductory survey of the political, economic, social, and technological transformations in world history from the 17th century to the present, with special emphasis on global interactions."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: The Second World War and the New World Order** <span
 id="8"></span> 
 *By the late 1930s, anti-democratic governments in Europe and Asia were

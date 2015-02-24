@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST103: World History in the Early Modern and Modern Eras (1600-Present)"
+course_description: "An introductory survey of the political, economic, social, and technological transformations in world history from the 17th century to the present, with special emphasis on global interactions."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: World War I** <span id="6"></span> 
 *By the early 20<sup>th</sup> century, competition between European
 states over colonial resources began to affect the cohesion of the

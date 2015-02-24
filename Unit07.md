@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST103: World History in the Early Modern and Modern Eras (1600-Present)"
+course_description: "An introductory survey of the political, economic, social, and technological transformations in world history from the 17th century to the present, with special emphasis on global interactions."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: The Rise of Totalitarian States in the 20th Century** <span
 id="7"></span> 
 *World War I devastated Europe economically, politically, and socially.

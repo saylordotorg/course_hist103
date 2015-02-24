@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST103: World History in the Early Modern and Modern Eras (1600-Present)"
+course_description: "An introductory survey of the political, economic, social, and technological transformations in world history from the 17th century to the present, with special emphasis on global interactions."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Global Society in a Post-Cold War World** <span
 id="10"></span> 
 *The fall of the Soviet Union in 1991 ended the bipolar military,

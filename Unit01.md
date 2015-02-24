@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST103: World History in the Early Modern and Modern Eras (1600-Present)"
+course_description: "An introductory survey of the political, economic, social, and technological transformations in world history from the 17th century to the present, with special emphasis on global interactions."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Global Networks of Exchange in the 1600s** <span
 id="1"></span> 
 *By the early 17<sup>th</sup>century, European merchants had established
